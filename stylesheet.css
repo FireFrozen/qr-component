@@ -5,7 +5,7 @@ body{
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
-    width: 280px;
+    width: 290px;
 
     margin: auto;
     row-gap: 20px;
@@ -17,11 +17,12 @@ body{
     transform: translate(-50%, -50%);
 
     border-radius: 20px;
+    box-shadow: 0px 10px 15px 0px hsla(212, 37%, 81%, 0.733);
 
 }
 
 img{
-    max-width: 250px;
+    max-width: 260px;
     margin: auto;
     border-radius: 10px;
     margin-top: 15px;
@@ -29,7 +30,7 @@ img{
 
 h2{
     margin: auto;
-    max-width: 230px;
+    max-width: 250px;
     color: hsl(218, 44%, 22%);
     font-family: 'Outfit', sans-serif;
     text-align: center;
@@ -39,7 +40,7 @@ h2{
 
 p{
     margin: auto;
-    max-width: 230px;
+    max-width: 250px;
     color:hsl(220, 15%, 55%);
     font-family: 'Outfit', sans-serif;
     text-align: center;
